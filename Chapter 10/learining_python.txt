@@ -1,0 +1,3 @@
+In Python, I learned about functions and basic functions. Python is one of the cleanest languages and how to
+get input statements and user input. You can mess with all the variables you make in Python and that's really cool
+Python is definitely one of my favorite languages.
